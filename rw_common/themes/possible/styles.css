@@ -2,11 +2,11 @@
 
 body {
 	color: #333333;
-	font: 0.75em/1.8em Helvetica, Arial, sans-serif;
+	/* font: 0.75em/1.8em Helvetica, Arial, sans-serif; */
 	margin: 0 20px 20px;
 	text-align: center;
 	background: repeat url(images/body_bg.png);
-	font-family: DejaVu Sans, Calibri, sans, sans-serif;
+	/* font-family: DejaVu Sans, Calibri, sans, sans-serif; */
 	padding: 0;
 }
 
@@ -49,7 +49,9 @@ img {
 /* @group Layout */
 
 #container { 
-	background: #ffffff repeat-y right url(images/sidebar_right_bg.png); /* This Is The BG Color Of The Main Div */	margin: 0px auto; /* Right And Left Margin Widths To Auto */	text-align: left; /* Hack To Keep IE5 Windows Happy */
+	background: #ffffff repeat-y right url(images/sidebar_right_bg.png); /* This Is The BG Color Of The Main Div */
+	margin: 0px auto; /* Right And Left Margin Widths To Auto */
+	text-align: left; /* Hack To Keep IE5 Windows Happy */
 	border-right: 1px solid #a0a9a7;
 	border-left: 1px solid #a0a9a7;
 	border-bottom: 1px solid #a0a9a7;
@@ -478,7 +480,9 @@ ul.blog-tag-cloud li {
 
 .blog-entry-summary {
 	margin-bottom: 10px;
-}.blog-archive-headings-wrapper {
+}
+
+.blog-archive-headings-wrapper {
 	margin-bottom: 30px;
 	border-bottom: 1px solid #eeeeee;
 	padding-bottom: 15px;
@@ -490,7 +494,9 @@ ul.blog-tag-cloud li {
 
 .blog-archive-entries-wrapper .blog-entry {
 	
-}.blog-archive-month {
+}
+
+.blog-archive-month {
 	font-size: 1.9em;
 	letter-spacing: 1px;
 	font-weight: bold;
@@ -499,7 +505,9 @@ ul.blog-tag-cloud li {
 
 .blog-archive-link {
 	
-}.blog-archive-link a:link, .blog-archive-link a:visited {
+}
+
+.blog-archive-link a:link, .blog-archive-link a:visited {
 }
 
 /* @end */
@@ -917,9 +925,13 @@ p.exif-user-comment {
 	letter-spacing: 1px;
 	font-weight: bold;
 	margin-bottom: 3px;
-}.movie-page-description {
+}
+
+.movie-page-description {
 	margin-bottom: 8px;
-}.movie-thumbnail-frame {
+}
+
+.movie-thumbnail-frame {
 	width: 132px;
 	height: 132px;
 	float: left;
