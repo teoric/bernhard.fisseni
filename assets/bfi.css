@@ -3,6 +3,10 @@
 	bfisseni@gmx.de
 */
 
+body {
+	font-family: Fira Sans, Source Sans Pro, Calibri, Droid Sans, DejaVu Sans, sans, sans-serif;
+}
+
 td, th {
 	vertical-align: top;
 }
@@ -18,7 +22,6 @@ h3, h4, h5, h6 {
 
 
 /*  background-color: gray; */
-	font-family: Fira Sans, Source Sans Pro, Calibri, Droid Sans, DejaVu Sans, sans, sans-serif;
 	padding-bottom: .5ex
 }
 
