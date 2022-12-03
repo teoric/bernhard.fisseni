@@ -182,7 +182,7 @@ img {
 /* Toolbar Styles */
 #navcontainer {
 	background: repeat-x url(images/toolbar_bg.png);
-	height: 34px;
+	height: 2.2em;
 	position: relative;
 	z-index: 2;
 }
@@ -204,7 +204,8 @@ img {
 
 #navcontainer li {
 	position: relative;
-	width: 120px;
+	min-width: 8em;
+	max-width: 15em;
 	display: inline;
 	float: left;
 }
@@ -215,9 +216,10 @@ img {
 	color: #ffffff;
 	text-shadow: 1px 1px 2px #333333;
 	text-decoration: none;
-	width: 120px;
 	text-align: center;
-	height: 27px;
+	padding-left: 1ex;
+	padding-right: 1ex;
+	height: 2em;
 }
 
 #navcontainer a:hover { 
