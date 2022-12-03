@@ -8,7 +8,6 @@ body {
 	letter-spacing: 0.5px;
 	word-spacing: 1px;
 	padding: 0px;
-	font: 10pt Georgia, Times New Roman, Times, serif;
 }
 
 p { 
@@ -28,7 +27,8 @@ a:hover, a:active {
 
 /*<group=Layout>*/
 
-#container {	text-align: left;
+#container {
+	text-align: left;
 	width: 100%;
 	padding: 0px;
 	margin: 0px;
