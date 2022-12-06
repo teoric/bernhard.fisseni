@@ -31,6 +31,10 @@ h3, h4, h5, h6 {
     padding-bottom: .5ex
 }
 
+p {
+    font-size: 100%;
+}
+
 td:nth-child(2) {
     font-size: 100%;
     text-align: justify;
