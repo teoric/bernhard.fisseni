@@ -5,6 +5,8 @@
 
 body {
     font-family: Fira Sans, Source Sans Pro, Calibri, Droid Sans, DejaVu Sans, sans, sans-serif;
+    hyphens: auto;
+    -webkit-hyphens: auto;
 }
 
 span.nobreak {
