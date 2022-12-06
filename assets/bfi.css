@@ -32,15 +32,14 @@ h3, h4, h5, h6 {
 }
 
 td:nth-child(2) {
-    font-size: 1rem;
+    font-size: 100%;
     text-align: justify;
 }
 
 td:nth-child(1), .Zeit {
-    font-size: 1rem;
+    font-size: 100%;
     padding-right: 2em;
     text-align: right;
-
     /* background-color: #DEDEDE */
     font-weight: bold;
 }
