@@ -31,7 +31,7 @@ h3, h4, h5, h6 {
     padding-bottom: .5ex
 }
 
-td:nth-child(1) {
+td:nth-child(1), p.BibItem {
     text-align: justify;
 }
 
