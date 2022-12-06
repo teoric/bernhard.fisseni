@@ -42,7 +42,7 @@ td:nth-child(2) {
 
 td:nth-child(1), .Zeit {
     font-size: 100%;
-    padding-right: 2em;
+    padding-right: 1em;
     text-align: right;
     /* background-color: #DEDEDE */
     font-weight: bold;
