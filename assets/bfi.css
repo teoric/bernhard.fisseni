@@ -31,6 +31,10 @@ h3, h4, h5, h6 {
     padding-bottom: .5ex
 }
 
+td:nth-child(1) {
+    text-align: justify;
+}
+
 td:nth-child(1), .Zeit {
     padding-right: 2em;
     text-align: right;
