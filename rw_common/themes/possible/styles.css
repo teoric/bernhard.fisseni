@@ -3,6 +3,7 @@
 body {
 	color: #333333;
 	/* font: 0.75em/1.8em Helvetica, Arial, sans-serif; */
+	line-height: 110%;
 	margin: 0 20px 20px;
 	text-align: center;
 	background: repeat url(images/body_bg.png);
